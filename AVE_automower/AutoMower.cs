@@ -113,7 +113,7 @@ namespace AVE_automower
         /// <returns>The position the lawnmower would occupy after this movement.</returns>
         public  Position Changecoordinate(Mower item)
         {
-            Position Result = new Position(item.PositionInfo.CoordinateInfo.X, item.PositionInfo.CoordinateInfo.Y, item.PositionInfo.Orientation);
+            Position Result = new(item.PositionInfo.CoordinateInfo.X, item.PositionInfo.CoordinateInfo.Y, item.PositionInfo.Orientation);
 
             switch (item?.PositionInfo.Orientation)
             {

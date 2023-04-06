@@ -48,7 +48,7 @@ namespace automowerBDD.Steps
 
 
         [Then(@"the mower last position is X equal to (.*) and Y equal to (.*) and orientation is equal to (.*)")]
-         public void thenTheMowerLastPositionIsXEqualToAndYEqualToAndOrientationIsEqualTo(int p0, int p1, string p2)
+         public void ThenTheMowerLastPositionIsXEqualToAndYEqualToAndOrientationIsEqualTo(int p0, int p1, string p2)
         {
             var mower = _autoMower.Mowers[0];
             Assert.Equal(mower.PositionInfo.Orientation, p2);

@@ -13,7 +13,8 @@
 5 1 E  
 
 ## diagram
-![Schema](https://user-images.githubusercontent.com/130087033/230459612-6807818a-78db-4c82-ab83-6ef88afc0ecc.JPG)
+
+![schema2](https://user-images.githubusercontent.com/130087033/230489984-328a42c1-e749-402b-9601-6ad1d6250b86.JPG)
 
 
 ## To Do

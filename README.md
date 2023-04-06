@@ -20,3 +20,4 @@
 - Study the implementation of a lawnmower identification system
 - Study a system for securing the instruction file
 - Increase test coverage
+- Create a Docker image

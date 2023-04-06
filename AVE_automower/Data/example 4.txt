@@ -1,0 +1,7 @@
+5 5
+1 2 N
+LFLFLFLFFA
+3 3 E
+FFRFFRFRRF
+1 5 S
+ffffffff
